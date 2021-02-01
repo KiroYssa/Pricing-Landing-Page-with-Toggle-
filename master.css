@@ -140,7 +140,7 @@ input:checked+.slider:before {
 }
 
 .dollar {
-  font-size: 4rem;
+  font-size: 300%;
   margin: auto;
   margin-bottom: 2rem;
 }
