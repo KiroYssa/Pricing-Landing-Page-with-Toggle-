@@ -5,6 +5,7 @@ body {
   background-color: hsl(240, 78%, 98%);
   color: hsl(232, 13%, 33%);
   font-size: 1rem;
+  margin: 0px;
 }
 
 hr {
@@ -92,7 +93,7 @@ input:checked+.slider:before {
 #pricing-Container {
   text-align: center;
   margin: auto;
-  padding: 0px 4rem;
+  padding: 0px 1.5rem;
 }
 
 .bck-img-top {
